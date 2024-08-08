@@ -33,7 +33,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
       </a> 
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/NestJS_logo.svg" alt="nestjs" width="40" height="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="nestjs" width="40" height="40"/>
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -42,7 +42,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
       </a> 
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Laravel_Logo.png" alt="laravel" width="40" height="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="laravel" width="40" height="40"/>
       </a>
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
