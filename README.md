@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **As a senior student Information Technology student at Hutech University, I have extensive programming and 
 information technology experience. I specialise in back-end development using .NET Framework, .NET MVC,.NET Core API**
-- 👨‍💻 All of my projects are available at <a href="https://react-portfolio-es77hd3pl-tuananh2401s-projects.vercel.app" target="_blank" rel="noopener noreferrer">TuanAnh2401</a>
+- 👨‍💻 All of my projects are available at <a href="https://react-portfolio-rgm8l2iaj-tuananh2401s-projects.vercel.app" target="_blank" rel="noopener noreferrer">TuanAnh2401</a>
 - 📫 How to reach me **lta2401.it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
