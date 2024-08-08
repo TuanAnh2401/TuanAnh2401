@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TuanAnh</h1>
+<h1 align="center">Hi 👋, I'm Tuan Anh</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
 - 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
