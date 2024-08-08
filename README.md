@@ -3,7 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-- 💬 Ask me about **ASP.NET, API Core .NET, MVC, SQL**
+- 💬 Ask me about **As a senior student Information Technology student at Hutech University, I have extensive programming and 
+information technology experience. I specialise in back-end development using .NET Framework, .NET MVC,
+.NET Core API**
 
 - 📫 How to reach me **lta2401.it@gmail.com**
 
