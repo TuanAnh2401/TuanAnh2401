@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tuan Anh</h1>
-<h3 align="center">A passionate Fullstack Developer from VietNam</h3>
+<h1 align="center">Hi <img src="https://media.tenor.com/3FFF1Q6-IT4AAAAM/wave-hi.gif" alt="Waving hand gif" width="50" height="50">, I'm Tuan Anh</h1>
+<h3 align="center">A passionate FullStack Developer from VietNam</h3>
 
 - 💬 Ask me about **As a senior student Information Technology student at Hutech University, I have extensive programming and 
 information technology experience. I specialise in back-end development using .NET Framework, .NET MVC,.NET Core API**
