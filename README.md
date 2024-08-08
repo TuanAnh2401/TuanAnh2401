@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/3FFF1Q6-IT4AAAAM/wave-hi.gif" alt="Waving hand gif" width="50" height="50">, I'm Tuan Anh</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand gif" width="50" height="50">, I'm Tuan Anh</h1>
 <h3 align="center">A passionate FullStack Developer from VietNam</h3>
 
 - 💬 Ask me about **As a senior student Information Technology student at Hutech University, I have extensive programming and 
