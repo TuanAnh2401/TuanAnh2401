@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm TuanAnh</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuananh2401&label=Profile%20views&color=0e75b6&style=flat" alt="tuananh2401" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 - 💬 Ask me about **ASP.NET, API Core .NET, MVC, SQL**
