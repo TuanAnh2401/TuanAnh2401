@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tuan Anh</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://react-portfolio-es77hd3pl-tuananh2401s-projects.vercel.app" target="_blank" rel="noopener noreferrer">TuanAnh2401</a>
 - 💬 Ask me about **As a senior student Information Technology student at Hutech University, I have extensive programming and 
 information technology experience. I specialise in back-end development using .NET Framework, .NET MVC,
+- 👨‍💻 All of my projects are available at <a href="https://react-portfolio-es77hd3pl-tuananh2401s-projects.vercel.app" target="_blank" rel="noopener noreferrer">TuanAnh2401</a>
 .NET Core API**
 
 - 📫 How to reach me **lta2401.it@gmail.com**
